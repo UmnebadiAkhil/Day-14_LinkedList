@@ -1,0 +1,15 @@
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\bin\Debug\net6.0\MyLinkedListProblems.exe
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\bin\Debug\net6.0\MyLinkedListProblems.deps.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\bin\Debug\net6.0\MyLinkedListProblems.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\bin\Debug\net6.0\MyLinkedListProblems.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\bin\Debug\net6.0\ref\MyLinkedListProblems.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\bin\Debug\net6.0\MyLinkedListProblems.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\obj\Debug\net6.0\MyLinkedListProblems.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\obj\Debug\net6.0\MyLinkedListProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\obj\Debug\net6.0\MyLinkedListProblems.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\obj\Debug\net6.0\MyLinkedListProblems.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\obj\Debug\net6.0\MyLinkedListProblems.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\obj\Debug\net6.0\MyLinkedListProblems.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\obj\Debug\net6.0\ref\MyLinkedListProblems.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\obj\Debug\net6.0\MyLinkedListProblems.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\MyLinkedListProblems\obj\Debug\net6.0\MyLinkedListProblems.genruntimeconfig.cache
