@@ -2,13 +2,6 @@
 using MyLinkedListProblems;
 using System.Collections.Generic;
 
-
-
-
-
-
-
-
 bool flag = true;
 while (flag)
 {
@@ -90,7 +83,16 @@ while (flag)
             link6.DeleteNodeAtParticularPosition(position1);
             break;
         case 10:
-
+            LinkedList link7 = new LinkedList();
+            link7.push(56);
+            link7.push(70);
+            link7.push(40);
+            link7.push(30);
+            Console.WriteLine("Linked List before Sorting..");
+            link7.printlist(link7.head);
+            link7.insertionSort(link7.head);
+            Console.WriteLine("\nLinkedList After sorting");
+            link7.printlist(link7.head);
             break;
         case 11:
             flag = false;
